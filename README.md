@@ -13,11 +13,10 @@
 这里收集了针对大型语言模型（LLMs）和智能代理（Agents）相关的精选论文和资源。
 
 ## 🌱 如何贡献
-我们热烈欢迎大家的贡献，无论您是发现拼写错误、错误、有建议，还是想要分享与LLMs+Agents相关的资源。有关如何贡献的详细指南，请参阅我们的 [CONTRIBUTING.md](CONTRIBUTING.md) 文件。
+我们热烈欢迎大家的贡献，无论您是发现拼写错误、错误、有建议，还是想要分享与LLMs+Agents相关的资源。
 
 ## 📜 目录
 - [**Awesome Agent Papers**🚀🚀🚀](#awesome-agent-papers)
-  - [🌱 如何贡献](#-如何贡献)
   - [📜 目录](#-目录)
   - [👋 简介](#-简介)
   - [📖 综述](#-综述)
@@ -48,9 +47,8 @@
 - GPT-4 [[paper](https://arxiv.org/pdf/2306.01116.pdf)]  [[code](https://github.com/openai/gpt-4)]  [[model](https://huggingface.co/openai-gpt-4)] 
   - 2023年6月, OpenAI 提出了 GPT-4，这是一个具有多模态能力的大规模语言模型。
 
-## 💡 微调
-- P-Tuning [[paper](https://arxiv.org/pdf/2103.10385.pdf)]  [[code](https://github.com/THUDM/P-tuning)]  
-  - 2021年3月，清华大学等提出了针对大模型微调方法P-Tuning。
+## 💡 暂定
+
 
 ## 💪 数据集
 - AgentSQL [[paper](https://arxiv.org/pdf/1709.00103.pdf)]  [[code](https://github.com/salesforce/AgentSQL)]  [[dataset](https://github.com/salesforce/AgentSQL)] 
@@ -71,30 +69,9 @@
   - 一个专注于智能代理和大型语言模型集成的开源项目，包含了模型下载、数据集预处理、微调技术、模型预测、模型评估等步骤。
 
 ## 🔗 引用
-如果您发现`Awesome Agent Papers`对您的研究或开发有用，请引用以下<a href="https://arxiv.org/abs/2407.15186"  target="_blank">论文</a>：
 
-```bibtex
-@misc{yourname2024awesomeagentpapers,
-      title={Awesome Agent Papers: A Comprehensive Collection of Resources on Large Language Models and Agents}, 
-      author={Your Name and Contributors},
-      year={2024},
-      eprint={2407.15186},
-      archivePrefix={arXiv},
-      primaryClass={id='cs.AI' full_name='Artificial Intelligence' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers all areas of artificial intelligence. Roughly includes material in ACM Subject Classes I.2 and F.1.1.'}
-}
-```
 
 ## 🤝 友情链接
-- [Your GitHub](https://github.com/yourusername) 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername?style=social)](https://github.com/yourusername) 
-![last commit](https://img.shields.io/github/last-commit/yourusername/Awesome-Agent-Papers?color=green) 
-  - 这里是你的个人或组织介绍，可以包括你的研究领域、项目或者对社区的贡献。
+- [AgentCourt](https://github.com/relic-yuexi/AgentCourt) [![GitHub stars](https://img.shields.io/github/stars/relic-yuexi/AgentCourt?style=social)](https://github.com/relic-yuexi/AgentCourt) - A project that simulates real courtroom proceedings with intelligent agents, exploring the application of AI in legal settings.
 
-- [Awesome AI Papers](https://github.com/awesome-ai-papers) 
-  [![GitHub Repo stars](https://img.shields.io/github/stars/awesome-ai-papers?style=social)](https://github.com/awesome-ai-papers/stargazers) 
-  ![last commit](https://img.shields.io/github/last-commit/awesome-ai-papers?color=green) 
-  - 一个收集人工智能领域相关论文和资源的仓库，涵盖了从机器学习到自然语言处理等多个子领域。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/Awesome-Agent-Papers&type=Date)](https://star-history.com/#yourusername/Awesome-Agent-Papers) 
-
-请根据你的实际情况替换上述模板中的占位符（如 `yourusername`、`yourname` 等）以及链接和描述。如果你有任何问题或需要进一步的帮助，请随时告诉我！
