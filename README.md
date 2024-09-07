@@ -37,13 +37,18 @@
 
 
 ## 💬 Multi-Agent应用/模拟
-- (ACL2024)**IBSEN**: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation   
-[paper](https://arxiv.org/pdf/2407.01093.pdf)  
+- (ACL2024) **IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation** [paper](https://arxiv.org/pdf/2407.01093.pdf)  
 
   摘要速览
 
   大型语言模型已展示出在情节创造和角色扮演方面的能力。本文介绍了IBSEN，一个导演-演员协调代理框架，用于生成戏剧剧本并使代理执行的情节更加可控。导演代理编写情节大纲，指导演员代理进行角色扮演，并在人类玩家参与时重新安排情节，以确保情节朝着目标发展。我们创建了一个新颖的戏剧情节，涉及多个演员代理，并在导演代理的指令下检查它们之间的交互。评估结果表明，我们的框架能够仅从一个粗略的情节大纲生成完整、多样化的戏剧剧本，同时保持戏剧中角色的特点。
 
+- (ACL2024) **Collaborative Mechanisms for LLM Agents: A Social Psychology View** 
+[paper](https://arxiv.org/abs/2310.02124)  
+
+  摘要速览
+  
+  随着自然语言处理（NLP）系统在复杂社会环境中的日益部署，出现了一个关键问题：这些NLP系统能否复制人类社会中观察到的协作智能，尤其是在由多种大型语言模型（LLMs）组成的多代理框架中？本文探讨了当代NLP系统之间的协作动态，结合了实证实验和理论见解。我们构建了四个独特的“社会”，由不同“特征”（随和或自信过度）的LLM代理组成，且通过不同的“思维模式”（辩论或反思）进行协作。我们对这些多代理社会在三个基准数据集上的评估显示，某些协作策略不仅超越了之前的最先进方法，同时还通过使用更少的API令牌提高了效率。此外，我们的研究结果表明，LLM代理展现出类似于人类的社会行为，如从众和达成共识，这与社会心理学的基础理论相一致。最后，我们整合了社会心理学的见解，以对LLM代理之间的协作进行背景化，激励对LLM协作机制的进一步探索。我们承诺分享我们的代码和数据集，希望能够促进该有前景领域的进一步研究。
 ## 🔥 基础模型
 
 
