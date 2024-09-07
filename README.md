@@ -1,8 +1,8 @@
 # **Awesome-Agent-Papers**🚀🚀🚀
 
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/yourusername/Awesome-Agent-Papers?style=social)](https://github.com/yourusername/Awesome-Agent-Papers/) 
-[![GitHub Repo forks](https://img.shields.io/github/forks/yourusername/Awesome-Agent-Papers?style=social)](https://github.com/yourusername/Awesome-Agent-Papers/) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/Eileen19200930/Awesome-Agent-Papers?style=social)](https://github.com/yourusername/Awesome-Agent-Papers/) 
+[![GitHub Repo forks](https://img.shields.io/github/forks/Eileen19200930/Awesome-Agent-Papers?style=social)](https://github.com/yourusername/Awesome-Agent-Papers/) 
 [![Awesome](https://img.shields.io/badge/Awesome-green.svg)](https://github.com/yourusername/Awesome-Agent-Papers/) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  
 ![Last Commit](https://img.shields.io/github/last-commit/yourusername/Awesome-Agent-Papers?color=green) 
