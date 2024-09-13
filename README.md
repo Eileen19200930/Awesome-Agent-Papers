@@ -20,7 +20,7 @@
   - [📜 目录](#-目录)
   - [👋 简介](#-简介)
   - [💬 Agent](#-Agent)
-  - [🔥 ICL(In-context Learning)](#'-ICL(In-context Learning)')
+  - [🔥 ICL(In-context Learning)](#'ICL(In-context Learning)')
   - [💡 暂定](#-暂定)
   - [💪 数据集](#-数据集)
   - [🌈 评测指标](#-评测指标)
