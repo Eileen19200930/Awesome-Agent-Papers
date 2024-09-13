@@ -20,7 +20,7 @@
   - [📜 目录](#-目录)
   - [👋 简介](#-简介)
   - [💬 Agent](#-Agent)
-  - [🔥 ICL(In-context Learning)](#-ICL-In-context-Learning)
+  - [🔥 ICL(In-context Learning)](#-ICL：In-context Learning)
   - [💡 暂定](#-暂定)
   - [💪 数据集](#-数据集)
   - [🌈 评测指标](#-评测指标)
@@ -91,7 +91,7 @@
   - 我们介绍了EvolutionaryAgent，这是一种基于适者生存原则在动态环境中进行智能体演化和对齐的方法。
   - 我们设计了一个演化环境EvolvingSociety，以及一种在变化环境中评估智能体的方法。
   - 我们系统地定义了智能体对齐，并通过基于各种LLMs的实验证明了EvolutionaryAgent能够持续地产生与演化社会规范对齐的智能体。
-## 🔥 ICL(In-context Learning)
+## 🔥 ICL：In-context Learning
 - **A Survey on In-context Learning**
 
   **摘要速览**
