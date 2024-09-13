@@ -19,9 +19,8 @@
 - [**Awesome Agent Papers**🚀🚀🚀](#awesome-agent-papers)
   - [📜 目录](#-目录)
   - [👋 简介](#-简介)
-  - [📖 综述](#-综述)
-  - [💬 经典模型](#-经典模型)
-  - [🔥 基础模型](#-基础模型)
+  - [💬 Agent](#-Agent)
+  - [🔥 ICL(In-context Learning)](#-ICL)
   - [💡 暂定](#-暂定)
   - [💪 数据集](#-数据集)
   - [🌈 评测指标](#-评测指标)
@@ -33,10 +32,8 @@
 ## 👋 简介
 - Awesome Agent Papers 是一个致力于收集和整理有关大型语言模型和智能代理的学术论文、项目、工具和资源的社区驱动项目。我们的目标是为研究人员和开发者提供一个集中的平台，以便于他们能够快速找到所需的资料。
 
-## 📖 综述
 
-
-## 💬 Multi-Agent应用/模拟
+## 💬 Agent
 - (ACL2024) **IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation** [paper](https://arxiv.org/pdf/2407.01093.pdf)  
 
   **摘要速览**  
@@ -94,8 +91,19 @@
   - 我们介绍了EvolutionaryAgent，这是一种基于适者生存原则在动态环境中进行智能体演化和对齐的方法。
   - 我们设计了一个演化环境EvolvingSociety，以及一种在变化环境中评估智能体的方法。
   - 我们系统地定义了智能体对齐，并通过基于各种LLMs的实验证明了EvolutionaryAgent能够持续地产生与演化社会规范对齐的智能体。
-## 🔥 基础模型
+## 🔥 ICL(In-context Learning)
+- **A Survey on In-context Learning**
 
+  **摘要速览**
+
+  本文综述了大型语言模型（LLMs）的上下文学习（In-context Learning, ICL）的最新进展和挑战。随着模型和数据规模的增长，LLMs表现出了通过上下文中的少量示例进行学习的能力。文章首先给出了ICL的正式定义，并阐明了其与相关研究的关系。接着，文章组织并讨论了先进技术，包括训练策略、提示设计策略和相关分析。此外，文章探索了ICL在数据工程和知识更新等不同应用场景，并讨论了ICL面临的挑战和未来研究方向。
+
+  **主要贡献**
+
+  - 提供了ICL的正式定义，并明确了其与相关研究的联系。
+  - 系统地组织和讨论了ICL的先进技术，包括训练策略和提示设计策略。
+  - 探索了ICL在多个领域的应用，如数据工程和知识更新。
+  - 讨论了ICL面临的挑战，并为未来的研究方向提出了建议。
 
 ## 💡 暂定
 
@@ -115,7 +123,7 @@
 ## 🔗 引用
 
 
-## 🤝 友情链接
+## 🤝 我的相关工作
 - [AgentCourt](https://github.com/relic-yuexi/AgentCourt) [![GitHub stars](https://img.shields.io/github/stars/relic-yuexi/AgentCourt?style=social)](https://github.com/relic-yuexi/AgentCourt) - A project that simulates real courtroom proceedings with intelligent agents, exploring the application of AI in legal settings.
 
 
